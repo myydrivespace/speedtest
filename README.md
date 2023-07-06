@@ -10,9 +10,8 @@ This Telegram bot allows you to perform speed tests for your server using the Sm
 
 ## Usage
 
-1. Start a chat with the bot by clicking on the following link: [Smart-Tool Speedtest Bot](https://t.me/SmartBisnuBio).
-2. Type `/speedtest` to initiate the speed test.
-3. The bot will calculate your server's speed and display the results.
+1. Type `/speedtest` to initiate the speed test.
+2. The bot will calculate your server's speed and display the results.
 
 ## How It Works
 
@@ -29,7 +28,7 @@ This Telegram bot allows you to perform speed tests for your server using the Sm
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/bisnuray/Smart-Tool-Speedtest-Bot.git
+git clone https://github.com/bisnuray/speedtest
 
 2. Install the required dependencies:
 pip install -r requirements.txt
