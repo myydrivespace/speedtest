@@ -30,8 +30,7 @@ This Telegram bot allows you to perform speed tests for your server using the Sm
 1. Clone the repository:
 git clone https://github.com/bisnuray/speedtest
 
-2. Install the required dependencies:
-pip install -r requirements.txt
+2. Install the required dependencies
 
 3. Update the `bot_token` variable in the `main.py` file with your Telegram bot API token obtained from the BotFather.
 
