@@ -9,8 +9,6 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from datetime import datetime
 import speedtest
 
-logging.basicConfig(level=logging.INFO)
-
 bot_token = "Your Bot Token"
 bot = Bot(token=bot_token)
 storage = MemoryStorage()
