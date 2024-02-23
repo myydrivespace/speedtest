@@ -3,7 +3,6 @@ Author: Bisnu Ray
 Telegram: https://t.me/SmartBisnuBio
 """
 
-import logging
 from aiogram import Bot, Dispatcher, types, executor
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from datetime import datetime
