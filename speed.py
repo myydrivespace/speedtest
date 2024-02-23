@@ -3,13 +3,10 @@ Author: Bisnu Ray
 Telegram: https://t.me/SmartBisnuBio
 """
 
-import logging
 from aiogram import Bot, Dispatcher, types, executor
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from datetime import datetime
 import speedtest
-
-logging.basicConfig(level=logging.INFO)
 
 bot_token = "Your Bot Token"
 bot = Bot(token=bot_token)
